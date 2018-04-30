@@ -1,0 +1,5 @@
+X=1
+Y=20* X
+X=X+Y
+print(X)
+print(Y)
